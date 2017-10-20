@@ -55,5 +55,3 @@ dataAll$SubjectNum = as.factor(dataAll$SubjectNum)
 dataAll = reshape2::melt(data=dataAll, id=c("SubjectNum","Activity"))
 dataAll = reshape2::dcast(data=dataAll, SubjectNum + Activity ~ variable, fun.aggregate=mean)
 write.table(x=dataAll, file="tidyData.txt", quote=FALSE)
-
-
