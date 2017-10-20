@@ -7,7 +7,7 @@ This repository contain the differents files requested in th final project of th
 ## Goal of the Project:
 Demonstrate your ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. You will be required to submit: 
 1) *A tidy data:*  This dataset is ready for any later analysis.
-3) *CodeBook:*     It describes the variables, the data, and any transformations or work performed to clean up the data.
+3) [*CodeBook:*](https://github.com/Francisco-Marquez/Getting_and_Cleaning_Data-Course_Project/blob/master/CodeBook.md)     It describes the variables, the data, and any transformations or work performed to clean up the data.
 4) *Analysis.R:*   This script ontains the code R realized (step by step).
 
 ## Contributions:
