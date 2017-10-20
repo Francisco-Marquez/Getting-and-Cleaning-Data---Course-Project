@@ -1,6 +1,6 @@
 # Getting and Cleaning Data - Course Project
-Author: Francisco Marquez M. <br />
-Data File Location: [UCI HAR Dataset](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip "It download the data set") <br />
+**Author:** Francisco Marquez M. <br />
+**Data File Location:** [UCI HAR Dataset](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip "It download the data set") <br />
 
 ## Goal of the Project
 1) A tidy data set as described below
