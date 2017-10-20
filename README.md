@@ -11,4 +11,4 @@ Demonstrate your ability to collect, work with, and clean a data set. The goal i
 4) *Analysis.R:* This script ontains the code R realized (step by step).
 
 ## Contributions:
-Feel free to provide any suggestions for improving the code after I confirm that this work has already been reviewed and graded.
+Feel free you to provide any suggestions for improving the code after I confirm that this work has already been reviewed and graded.
